@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/daftar_masjid"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Daftar Masjid" />
+    <item
+        android:id="@+id/tambah_masjid"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="Tambah Masjid" />
+    <item
+        android:id="@+id/jadwal_sholat"
+        android:icon="@drawable/ic_menu_slideshow"
+        android:title="Jadwal Sholat" />
+    <item
+        android:id="@+id/arah_kiblat"
+        android:icon="@drawable/ic_menu_slideshow"
+        android:title="Arah Kiblat" />
+
+
+    <item android:title="About">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Beri Rating" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

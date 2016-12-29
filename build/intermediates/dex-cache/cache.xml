@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.1_b7bf39b95eaf299faa4ce7248a34c36c534bced1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_28953599dd66bfcb3a965bc961d6d4ebb03dcce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-10.0.1_a701b2eca81bdf82c8889d74fbd6e48894bd7f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.0.1_b732170a91e7ebaaf16413a4fcf346f592fb526e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-10.0.1_dfe5aec99dd809f13db8b05ea70627a0867d2ec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.0.1_fc83116a2bc7b5e6f3966eb3f667d1c458ec1384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_bad98c5dd4d3e2463b52cb086dd11cb3c56b496a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-10.0.1_4e3274a8387e7abaadecdebc15e34c74741698b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c393e386f13b9bd01bb12a3a6f5cd68423b30a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_62574f633908ee28f2ce9a1f81e1ac99892e4665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_3118f95cdc9b00e9d835da7cdb02cc317327d4a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.0.1_a728401ca4b690b598a925ff7b1ec2cf672946e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_b3b06163482cc0a4ba9b53af743699ee6c06893f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_a6d4115dc9b43f5546768e74d4804178aca227b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_03b74f310a92bdf44590aad518f4b1bcc4ac9c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.0.1_fad654a1567717427b721b391c73e96d28df7cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_04e2a09c25bc7ecbfeb86c59890d88132cf982cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_d4fc62ebb3d8e6d2be7355b45f7f3f7ad3625420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-10.0.1_f38a9c74c3edf861d5f1f504016638c1d75e8887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-10.0.1_e220691a7575365cb3234dbb018fee5b5ce015fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_ec7d186f974f60dac4a9aac327eadb5cf081bdff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.0.1_a7b3bfbee766f0a244bad4f191566149190c4064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.1_ea19807ff65255c504c6576000f50e38e225f221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_b59c2132c49e647e8159ad334e2edcb846bd1890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.1_bc2ad3fb03d85e92db261b64c77b7dcba14aec0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.1_36875aa2ef611a1deb986d2be8834556954b1c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_2c6dc919c705205e6c29bc5d6bb53bd871e19ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.0.1_d39ed76ab9a34a6c28651c4921dce1b7ad965a0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.0.1_06450d716916163424c21a197971c34b89dde612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-10.0.1_9ecea129aa9c16d287da014dd6b17e4a5480af8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-10.0.1_d7d7969102db49896b0c89f1081e82285474507d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.1_c30192adddabda6803661205c1a122e2d0dbdc24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_a744414fc4045abf7e069d9026f0fb84208a96ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_316f1310f5d5df7eaeb441cd23ec569e6d80eb0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1ddd4aec6b821e445a829e146b48a8b0509fdb1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.0.1_d8b81e082b6462dae7673bf3d8146181dd92250b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.0.1_038d2b06d199cc8eaeb158a312d703cd9b1e8a27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.1_1ad549e26b90b11a68505943b00918c6d2fed143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_98d10549a3ce17672d62da4f0faba56c39ef497f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_e5d144cd70be6be352309315386cb3ea38f2b1af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/library-1.0.19_be2244aa22dfe9f22743c9705df377796b1b4b83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.1_a4eafe0e3e1b4ac5249d12ebf55e3e4187a5b98c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-10.0.1_4b81051e9da40835ed23b599b86ab072c8bdf730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-10.0.1_a0c9bd7197c6b5a8905c319f65cef1354848d9a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-10.0.1_a383557f3b63e28bfd853c6ddffab343d92942d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7095126b353d6681345c089ecacb868edc65096e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_919bdb5bfc0f04404a55d8784321af6d3541c972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-10.0.1_d64610c402363f358c3abb1efb5950b8119acd1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_1aafdd9bfd38fdc1509f6b72a893b791d6b5b767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_e6eec88bed05153069428042d6db77ad78522035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_5d2c186f337e844db1390f18dce4a30978251b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_f52a44b8b878fa05ccc1badaeca5841759c21083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_ceef322a19aadc2fa7304cc7e8ae7c03be576c85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_0c2bc084740cfdad6f01259162ad91bfc343b29b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-10.0.1_69bea5ee74e4ac62858f48c4ab0af60a0a942ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.1_15aa0cbd419c8feae0e02c90a986fdd7e024a32e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_01f4a2e3046e824ab15a8149d4b08bbbef60a5ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_0fdec6ccae6fce9fb0079f8f4b69f8b862606783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.0.1_70262d0b1b8722f9534c6e04b50e6691f4184b63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.1_7da97c96eac6ddb35e2af56724b2ce55cc5ee684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-10.0.1_971b4a43224d28b31084cc6991107c96a55dfbc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.1_e443daa5adbaf4f9fc4ddcb0e908439dd103299b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_10e5da80bd92e677f7df7728bd395af0498be3e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.1_ce09f2c8ccc576b6816e0e06b74dbc0f40f4c06f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.0.1_1be56015b45d28b46dafaba495ca730f19dbfa19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_9337b5de5bc546b410f18da44f57693ab461adbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_5517244bcbc4cafe9d547030359f56c4ca9a8313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-10.0.1_b22605641e0b85f6e0ec25bd606bd936b7f3e97f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_3cda73d07ccc5d09186fdeaf4b394fb55e83e7a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/home/tony/Documents/Android/Project/CariMasjid/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.0.1_9adfda377014ac3d9994bb6641cc0f8c3c47cf65.jar" />
+    </item>
+
+</items>
